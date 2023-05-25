@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="importent-color" transform="translate(-108 -189)">
+    <g id="archive-tick" transform="translate(108 189)">
+      <path id="Vector" d="M11.237,0H3.213A3.221,3.221,0,0,0,0,3.215V14.949c0,1.5,1.074,2.132,2.389,1.407L6.451,14.1a1.762,1.762,0,0,1,1.556,0l4.062,2.257c1.315.733,2.389.1,2.389-1.407V3.215A3.234,3.234,0,0,0,11.237,0Z" transform="translate(2.775 1.672)" fill="none" stroke="#1765fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,2.09,1.254,3.344,4.6,0" transform="translate(7.984 7.079)" fill="none" stroke="#1765fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

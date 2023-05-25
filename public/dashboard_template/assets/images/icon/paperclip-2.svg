@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="paperclip-2" transform="translate(-556 -188)">
+    <g id="paperclip-2-2" data-name="paperclip-2" transform="translate(556 188)">
+      <path id="Vector" d="M7.87,6.94,5.829,8.976a2.889,2.889,0,1,0,4.09,4.081L13.133,9.85a5.778,5.778,0,0,0-8.18-8.162l-3.5,3.5a4.948,4.948,0,0,0,0,7" transform="translate(2.396 3.189)" fill="none" stroke="#1765fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H20V20H0Z" transform="translate(20 20) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

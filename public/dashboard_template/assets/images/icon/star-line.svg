@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="star-line" transform="translate(-108 -188)">
+    <g id="star" transform="translate(108 188)">
+      <path id="Vector" d="M9.774,1.194l1.467,2.933A1.811,1.811,0,0,0,12.424,5l2.658.442c1.7.283,2.1,1.517.875,2.733l-2.067,2.067a1.809,1.809,0,0,0-.433,1.508l.592,2.558c.467,2.025-.608,2.808-2.4,1.75L9.157,14.585a1.8,1.8,0,0,0-1.65,0L5.016,16.06c-1.783,1.058-2.867.267-2.4-1.75l.592-2.558a1.809,1.809,0,0,0-.433-1.508L.707,8.177c-1.217-1.217-.825-2.45.875-2.733L4.241,5a1.815,1.815,0,0,0,1.175-.875L6.882,1.194C7.682-.4,8.982-.4,9.774,1.194Z" transform="translate(1.668 1.731)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

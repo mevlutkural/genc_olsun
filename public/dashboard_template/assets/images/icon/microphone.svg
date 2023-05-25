@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="vuesax_linear_microphone" data-name="vuesax/linear/microphone" transform="translate(-3 -423)">
+    <g id="microphone" transform="translate(-105 235)">
+      <path id="Vector" d="M5.112,14.483a5.116,5.116,0,0,0,5.112-5.112V5.112A5.112,5.112,0,0,0,0,5.112v4.26A5.116,5.116,0,0,0,5.112,14.483Z" transform="translate(112.888 189.704)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0V1.7A7.559,7.559,0,0,0,7.444,9.372,7.559,7.559,0,0,0,14.888,1.7V0" transform="translate(110.556 196.924)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,.415a6.816,6.816,0,0,1,4.686,0" transform="translate(115.541 193.824)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,.211a5.9,5.9,0,0,1,3.127,0" transform="translate(116.325 196.525)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H20V20H0Z" transform="translate(108 188)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

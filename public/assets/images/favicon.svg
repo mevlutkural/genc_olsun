@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.473" height="27.045" viewBox="0 0 23.473 27.045">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.382" y1="0.126" x2="0.689" y2="0.794" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1765fd"/>
+      <stop offset="1" stop-color="#4fcb8d"/>
+    </linearGradient>
+  </defs>
+  <g id="LOgo" transform="translate(-336.232 15.297) rotate(-45)">
+    <g id="Ñëîé_1" data-name="Ñëîé 1" transform="translate(238.714 235.72)">
+      <path id="Path_1" data-name="Path 1" d="M766.507,805.281l-3.537-7.1L756,807.734l.132.3H764.8A1.9,1.9,0,0,0,766.507,805.281Z" transform="translate(-753.472 -792.178)" fill="#4fcb8d"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="1.148" height="11.434" transform="translate(13.406 6.178) rotate(37)" opacity="0.47"/>
+      <path id="Path_3" data-name="Path 3" d="M243.633,278.478l1.326-1.493a4.96,4.96,0,0,0,.367-.481c.109-.156.228-.333.356-.53q.04.138.089.278a5.4,5.4,0,0,0,.256.607l.684,1.359,3.446-4.149-.894-1.577,4.576-4.884a.779.779,0,0,0-.688-1.28h-4.486l-1.142,1.4a6.8,6.8,0,0,0-.5.667q-.079.123-.144.244-.068-.191-.144-.379c-.1-.237-.2-.476-.313-.709l-.631-1.222h-.219l-3.308,3.984.957,1.667-4.969,5.213a.778.778,0,0,0,.683,1.285Z" transform="translate(-238.044 -264.178)" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="1.148" height="11.434" transform="translate(9.742 2.152) rotate(37)" opacity="0.47"/>
+      <path id="Path_2" data-name="Path 2" d="M332.053,236.06H322.11a1.9,1.9,0,0,0-1.7,2.761l3.935,7.8Z" transform="translate(-318.076 -236.06)" fill="#1765fd"/>
+    </g>
+  </g>
+</svg>

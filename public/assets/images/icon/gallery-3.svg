@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.998" height="19.998" viewBox="0 0 19.998 19.998">
+  <g id="gallery-3" transform="translate(-364 -252)">
+    <g id="gallery" transform="translate(364 252)">
+      <path id="Vector" d="M5.833,16.665h5c4.166,0,5.833-1.667,5.833-5.833v-5C16.665,1.667,15,0,10.832,0h-5C1.667,0,0,1.667,0,5.833v5C0,15,1.667,16.665,5.833,16.665Z" transform="translate(1.667 1.667)" fill="none" stroke="#1765fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M3.333,1.667A1.667,1.667,0,1,1,1.667,0,1.667,1.667,0,0,1,3.333,1.667Z" transform="translate(5.833 5)" fill="none" stroke="#1765fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,5.793,4.108,3.035a1.877,1.877,0,0,1,2.2.117l.275.242a1.858,1.858,0,0,0,2.35,0L12.4.419a1.858,1.858,0,0,1,2.35,0l1.358,1.167" transform="translate(2.225 9.997)" fill="none" stroke="#1765fd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H20V20H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113.977" height="43.239" viewBox="0 0 113.977 43.239">
+  <g id="Joxi_Logo_White" transform="translate(-25.023 -52.988)">
+    <g id="LOgo" transform="translate(-311.956 76.918) rotate(-45)">
+      <g id="Ñëîé_1" data-name="Ñëîé 1" transform="translate(238.714 236.72)">
+        <path id="Path_1" data-name="Path 1" d="M766.507,805.281l-3.537-7.1L756,807.734l.132.3H764.8A1.9,1.9,0,0,0,766.507,805.281Z" transform="translate(-736.472 -777.178)" fill="#fff"/>
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="1.148" height="11.434" transform="translate(26.93 21.178) rotate(37)"/>
+        <path id="Path_3" data-name="Path 3" d="M249.572,294.478l2.736-3.458a11.448,11.448,0,0,0,.757-1.114c.225-.361.471-.771.735-1.227q.083.32.184.643a13.4,13.4,0,0,0,.527,1.407l1.411,3.15,7.107-9.614-1.843-3.653,9.437-11.316a1.812,1.812,0,0,0-1.418-2.966h-9.253l-2.356,3.243a15.776,15.776,0,0,0-1.029,1.545q-.163.285-.3.565-.139-.442-.3-.878c-.2-.548-.415-1.1-.645-1.644l-1.3-2.831h-.452l-6.824,9.23,1.974,3.863L238.476,291.5a1.811,1.811,0,0,0,1.408,2.978Z" transform="translate(-238.044 -265.178)" fill="#fff"/>
+        <rect id="Rectangle_25" data-name="Rectangle 25" width="1.148" height="11.434" transform="translate(15.67 1.152) rotate(37)"/>
+        <path id="Path_2" data-name="Path 2" d="M332.053,236.06H322.11a1.9,1.9,0,0,0-1.7,2.761l3.935,7.8Z" transform="translate(-318.076 -237.06)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="Joxi" transform="translate(72 85)" fill="#fff" font-size="30" font-family="Poppins-Black, Poppins" font-weight="800"><tspan x="0" y="0">Joxi</tspan></text>
+  </g>
+</svg>

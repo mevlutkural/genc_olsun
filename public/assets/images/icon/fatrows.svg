@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_linear_fatrows" data-name="vuesax/linear/fatrows" transform="translate(-172 -188)">
+    <g id="fatrows">
+      <path id="Vector" d="M17.9,0H2.1C.6,0,0,.64,0,2.23V6.27C0,7.86.6,8.5,2.1,8.5H17.9c1.5,0,2.1-.64,2.1-2.23V2.23C20,.64,19.4,0,17.9,0Z" transform="translate(174 201.5)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M10.9,0H2.1C.6,0,0,.64,0,2.23V6.27C0,7.86.6,8.5,2.1,8.5h8.8c1.5,0,2.1-.64,2.1-2.23V2.23C13,.64,12.4,0,10.9,0Z" transform="translate(174 190)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(172 188)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

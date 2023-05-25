@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="vuesax_linear_folder-2" data-name="vuesax/linear/folder-2" transform="translate(-428 -188)">
+    <g id="folder-2" transform="translate(428 188)">
+      <path id="Vector" d="M16.551,7.448v4.965c0,3.31-.828,4.138-4.138,4.138H4.138C.828,16.551,0,15.723,0,12.413V4.138C0,.828.828,0,4.138,0H5.379A1.954,1.954,0,0,1,7.365.993L8.606,2.648A1.311,1.311,0,0,0,9.93,3.31h2.483C15.723,3.31,16.551,4.138,16.551,7.448Z" transform="translate(1.725 1.725)" fill="none" stroke="#292d32" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H7.761a2.287,2.287,0,0,1,2.587,2.587v1.19" transform="translate(6.435 1.725)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <g id="Vector-3" data-name="Vector" transform="translate(20 20) rotate(180)" fill="none" opacity="0">
+        <path d="M0,0H20V20H0Z" stroke="none"/>
+        <path d="M 1 1 L 1 19 L 19 19 L 19 1 L 1 1 M 0 0 L 20 0 L 20 20 L 0 20 L 0 0 Z" stroke="none" fill="#292d32"/>
+      </g>
+    </g>
+  </g>
+</svg>

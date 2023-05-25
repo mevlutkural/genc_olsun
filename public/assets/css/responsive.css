@@ -1,0 +1,1701 @@
+/* Max width 767px */
+@media only screen and (max-width: 767px) {
+  /* Main Title Style */
+  .main-title {
+    margin-bottom: 20px;
+  }
+  .main-title.border-style {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+  }
+  /* Main Content Wrap Style*/
+  .main-content-wrap {
+    padding-left: 0;
+    padding-top: 108px;
+  }
+  /* Features Style */
+  .single-features {
+    padding: 15px;
+    border-radius: 10px;
+  }
+  /* Card Box Style */
+  .card-box-style {
+    padding: 15px;
+    border-radius: 10px;
+  }
+  .card-box-style.rounded {
+    padding: 15px;
+    border-radius: 10px !important;
+  }
+  /* Overview Box Style */
+  .overview-content {
+    display: block !important;
+  }
+  .overview-content .total-overview {
+    margin-top: 10px;
+  }
+  .overview-content .total-overview li {
+    margin-right: 8px;
+  }
+  .single-audience {
+    padding: 15px;
+    border-radius: 10px;
+  }
+  .single-audience .icon {
+    border-radius: 10px !important;
+  }
+  /* Traffic Style */
+  .traffic-content .traffic-chart {
+    margin-bottom: 20px;
+  }
+  .traffic-content .col-md-3 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  /* Device Style */
+  .device-content .device-chart {
+    margin-bottom: 0;
+  }
+  .device-content .col-md-4 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .device-content.website {
+    padding-bottom: 0;
+  }
+  /* Website Performance Style */
+  .website-performance-content {
+    margin-bottom: 15px;
+  }
+  .single-website-performance {
+    display: block !important;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  .single-website-performance .website-chart {
+    max-width: 100%;
+  }
+  /* Single Up Style */
+  .single-up-and-down {
+    border-radius: 10px;
+  }
+  /* Total Visits Style */
+  .total-visits-content {
+    overflow: auto;
+  }
+  .total-visits-content table thead tr th {
+    white-space: nowrap;
+  }
+  .total-visits-content table tbody tr td {
+    white-space: nowrap;
+    padding: 15px;
+  }
+  /* Total Browse Style */
+  .total-browse-content {
+    overflow: auto;
+  }
+  .total-browse-content table thead tr th {
+    white-space: nowrap;
+    padding-right: 140px !important;
+  }
+  .total-browse-content table tbody tr td {
+    white-space: nowrap;
+    padding: 15px;
+  }
+  /* HR Management */
+  /* Main Content Wrapper */
+  .main-content-wrap.style-two {
+    padding-left: 0;
+    overflow: hidden;
+  }
+  /* Welcome Back */
+  .welcome-back-content {
+    padding: 20px;
+    margin-top: 0;
+    margin-bottom: 24px;
+    border-radius: 10px;
+  }
+  .welcome-back-content .welcome-img {
+    display: none;
+  }
+  .welcome-back-content h2 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  /* Works Stats Back */
+  .works-stats-content .works-chart {
+    margin-bottom: 30px;
+  }
+  .works-stats-content .col-sm-4 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  /* Total Back */
+  .single-total {
+    padding: 15px;
+    border-radius: 10px;
+  }
+  .single-total h2 {
+    font-size: 20px;
+  }
+  /* Media Files Style */
+  .media-files-content {
+    overflow: auto;
+  }
+  .media-files-content table tbody tr td {
+    white-space: nowrap;
+    padding: 15px !important;
+  }
+  /* Group Style */
+  .single-group {
+    padding: 15px;
+    border-radius: 10px;
+  }
+  .single-group h3 {
+    font-size: 14px;
+  }
+  .single-group .group-img li {
+    margin-right: -25px;
+  }
+  .single-group .add-member-wrap li .add-member-btn {
+    width: 80px;
+    font-size: 9px;
+    text-align: center;
+  }
+  /* Tutor LMS Style */
+  /* Employees Style */
+  .employees-content {
+    display: block !important;
+  }
+  .employees-content .total-overview {
+    margin-top: 10px;
+  }
+  .employees-content .total-overview li {
+    margin-right: 6px;
+  }
+  .total-employees-content .total-employees-chart {
+    margin-top: 0;
+  }
+  .total-employees-content .col-sm-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+  .employees-availability-content-wrap .main-title {
+    margin-bottom: 30px;
+  }
+  .employees-availability-content-wrap.availability {
+    padding-bottom: 0;
+  }
+  .single-employees-availability {
+    padding: 15px;
+    display: block !important;
+  }
+  .single-employees-availability .employees-chart {
+    max-width: 100%;
+  }
+  /* Total Hiring Style */
+  .total-hiring-sources-content {
+    padding: 15px;
+  }
+  .total-hiring-sources-content .col-sm-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  /* Upcoming Style */
+  .upcoming-interview-content .interviews-wrap {
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview {
+    padding: 15px;
+    display: block !important;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview .call-btn {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+  }
+  /* Performers Style */
+  .top-performers-content ul {
+    margin-bottom: 30px;
+  }
+  .top-performers-content p {
+    margin-bottom: 30px;
+  }
+  /* Page Title */
+  .page-title-area .col-sm-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .page-title-area .page-title h3 {
+    font-size: 20px;
+  }
+  /* Calendar Title */
+  .calendar-wrap.style-two .fc-today-button {
+    display: none;
+  }
+  .calendar-wrap.style-two .fc .fc-col-header-cell-cushion {
+    margin-bottom: 0;
+  }
+  .calendar-wrap.style-two .fc-header-toolbar {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .performance-date {
+    padding: 20px;
+  }
+  .performance-date-list {
+    padding-left: 20px;
+  }
+  .performance-date-list::before {
+    height: 100%;
+    top: 0;
+  }
+  .performance-date-list li {
+    padding: 15px;
+  }
+  .performance-date-list li::after {
+    left: -32px;
+  }
+  .performance-date-list li::before {
+    left: -27px;
+  }
+  /* Chat Style */
+  .chat-content-area .sidebar-left {
+    float: unset;
+  }
+  .chat-content-area .sidebar-left .sidebar {
+    width: auto;
+    padding: 20px;
+  }
+  .chat-content-area .sidebar-left .top-chat-menu li a {
+    font-size: 14px !important;
+  }
+  .chat-content-area .content-right {
+    width: unset;
+    float: unset;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-header .header-left h6 {
+    font-size: 14px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-container .chat-content .chat .chat-body .chat-message p {
+    font-size: 13px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-container .chat-content .chat.chat-left .chat-body .chat-message p {
+    font-size: 13px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-footer form .others-option-list li {
+    margin-right: -2px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-footer form .others-option-list li img {
+    width: 20px;
+  }
+  /* My Devices Style */
+  .my-devices-area .sidebar-left {
+    float: unset;
+  }
+  .my-devices-area .sidebar-left .sidebar {
+    width: 100%;
+    padding: 20px;
+  }
+  .my-devices-area .sidebar-left .sidebar .drive-list-wrap li a {
+    font-size: 14px;
+  }
+  .my-devices-area .content-right {
+    width: unset;
+  }
+  .my-devices-area .content-right .my-file-area {
+    padding: 20px;
+    padding-bottom: 0;
+  }
+  .my-devices-area .content-right .my-file-area .form-file-upload {
+    display: block !important;
+  }
+  .my-devices-area .content-right .my-file-area .form-file-upload .create-upload li .upload-btn {
+    padding: 10px 15px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  .my-devices-area .content-right .my-file-area .form-file-upload {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .my-devices-area .content-right .my-file-area .single-folde {
+    padding: 20px;
+  }
+  /* Contact Area Style */
+  .contact-info-wrap {
+    padding: 20px;
+    margin-bottom: 30px;
+  }
+  .contact-form {
+    padding: 20px;
+  }
+  .contact-form .form-group {
+    margin-bottom: 20px;
+  }
+  /* Email Area Style */
+  .email-content-area .sidebar-left {
+    float: unset;
+  }
+  .email-content-area .sidebar-left .sidebar .sidebar-content {
+    width: auto;
+  }
+  .email-content-area .content-right {
+    float: unset;
+    width: unset;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header {
+    display: block !important;
+    padding: 20px 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header .header-right li .form-select {
+    width: 100%;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item {
+    padding: 16.1px 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail .form {
+    width: auto;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail .msg {
+    margin-left: 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail div {
+    padding-left: 0;
+  }
+  .email-content-area .content-right .form-control {
+    width: 100% !important;
+    margin-bottom: 20px;
+  }
+  /* Account Area Style */
+  .account-area {
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .account-content {
+    padding: 30px;
+  }
+  /* Profile */
+  .profile-info {
+    display: block !important;
+    text-align: center;
+  }
+  .profile-info img {
+    margin-bottom: 10px;
+  }
+  .profile-info .ms-4 {
+    margin-left: 0 !important;
+  }
+  .profile-info .follow-email {
+    margin-bottom: 20px;
+  }
+  .edit-massage .btn.btn-primary {
+    margin-right: 0;
+  }
+  .profile-details .profile-menu {
+    margin-bottom: 20px;
+  }
+  /* Error Style */
+  .error-content h1 {
+    font-size: 100px;
+    margin-top: 0;
+  }
+  /* BOx Icon Style */
+  .icon-box {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  /* Remix Icon Style */
+  .icon-used-example {
+    display: none;
+  }
+  .remixicon-area .icon-list .icon-type-item .icon-items .icon-item-group[data-v-3fe659be] {
+    width: 100%;
+  }
+  .others-title h3 {
+    font-size: 18px;
+  }
+  /* Avatar Style */
+  .avatar-list {
+    display: flex !important;
+  }
+  .avatar-list img {
+    max-width: 100% !important;
+  }
+  /* Thumbnails Style */
+  .thumbnails-2 {
+    display: block !important;
+    text-align: center;
+  }
+  .thumbnails-2 img {
+    margin-bottom: 20px;
+  }
+  .thumbnails-2 img:last-child {
+    margin-bottom: 0;
+  }
+  /* Media Object Style */
+  .media-object-content {
+    display: block !important;
+  }
+  .media-object-content img {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .media-object-content .ms-3 {
+    margin-left: 0 !important;
+  }
+  /* Contact List Style */
+  .contact-list-area .table-responsive {
+    overflow: auto;
+  }
+  .contact-list-area .table-responsive table tbody tr td {
+    white-space: nowrap;
+    padding: 15px !important;
+  }
+  .contact-list-area .table tbody tr td ul li {
+    width: 20px;
+  }
+  .btn {
+    padding: 8px 20px;
+  }
+  /* About Style */
+  .about-content h2 {
+    font-size: 20px;
+  }
+  /* Accordion Style */
+  .accordion-item .accordion-body {
+    padding: 20px 0;
+  }
+  .tabs-wrap .nav-tabs .nav-link {
+    margin: 0 5px !important;
+  }
+  .tabs-wrap .nav-tabs .nav-link.active::before {
+    display: none;
+  }
+  /* Terms Style */
+  .main-content-text h3 {
+    font-size: 18px;
+  }
+  /* Pricing Style */
+  .single-pricing h1 {
+    font-size: 35px;
+  }
+  .single-pricing ul {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Blog Style */
+  .single-blog {
+    padding: 20px;
+  }
+  .single-blog .blog-content h3 {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  /* Blog Details Style */
+  .blog-details-content h2 {
+    font-size: 20px;
+  }
+  .blog-details-content .tags li {
+    margin-bottom: 10px;
+  }
+  .blog-details-content .tags li:last-child {
+    margin-bottom: 0;
+  }
+  .blog-details-content .tags li a {
+    padding: 5px;
+  }
+  .blog-details-content blockquote {
+    padding: 20px;
+    padding-left: 20px;
+  }
+  .blog-details-content blockquote p {
+    font-size: 15px;
+  }
+  .blog-details-content .social-link li {
+    margin-right: 5px;
+  }
+  .blog-details-content h3 {
+    font-size: 16px;
+  }
+  .blog-details-content .post-author {
+    display: block !important;
+  }
+  .blog-details-content .comments ul li.reply {
+    margin-left: 0;
+  }
+  /* Timeline Style */
+  .timeline .timeline-wrap::before {
+    display: none;
+  }
+  .timeline .timeline-wrap .timeline-item {
+    flex-flow: column wrap;
+    height: auto;
+  }
+  .timeline .timeline-wrap .timeline-item:nth-child(even) {
+    flex-direction: column;
+  }
+  .timeline .timeline-wrap .timeline-item:nth-child(even) > .time:last-child {
+    text-align: start;
+  }
+  .timeline .timeline-wrap .timeline-item:nth-child(odd) h3::before {
+    content: "";
+    position: absolute;
+    left: -20px;
+    border: 10px solid rgba(0, 0, 0, 0);
+    border-right-color: black;
+  }
+  .timeline .timeline-wrap .timeline-item:nth-child(odd) h3::after {
+    border: none;
+  }
+  .timeline .timeline-wrap .timeline-item .icon {
+    order: 1;
+    flex: 1 1 100%;
+    padding-top: 50px;
+    width: 100px;
+  }
+  .timeline .timeline-wrap .timeline-item .icon div {
+    display: none;
+  }
+  .timeline .timeline-wrap .timeline-item .time {
+    order: 2;
+    flex: 1 1 50px;
+    width: calc(100% - 100px);
+  }
+  .timeline .timeline-wrap .timeline-item .text {
+    order: 3;
+    flex: 1 1 calc(100% - 50px);
+    width: calc(100% + 1px);
+  }
+  /* Compose Style */
+  .compose-mail-form .form-group {
+    display: block !important;
+  }
+  .compose-mail-form .form-group label {
+    margin-bottom: 10px;
+  }
+  .compose-mail-form .list-inline {
+    padding-left: 0;
+  }
+  .compose-mail-form .list-inline .send-btn .btn-danger {
+    margin-bottom: 10px;
+  }
+  .compose-mail-form .list-inline .send-btn .btn {
+    width: 100%;
+  }
+  .compose-mail-form .upload-btn .btn {
+    margin-bottom: 5px;
+  }
+  /* Go Top Style */
+  .go-top {
+    width: 30px;
+    height: 30px;
+  }
+  .go-top.active {
+    top: 96%;
+  }
+  /* Footer Style */
+  .footer-content {
+    padding: 15px;
+    border-radius: 10px;
+  }
+  .footer-content p {
+    font-size: 13px;
+  }
+  .upcoming-group-lessons-content .main-title .view-btn {
+    width: 80px;
+    text-align: center;
+  }
+  .chat-content-area .sidebar-left .sidebar .top-chat-menu li {
+    width: 31.33%;
+    flex: 0 0 auto;
+  }
+  .chat-content-area .sidebar-left .sidebar .top-chat-menu li a {
+    font-weight: 500;
+    padding: 5px;
+    font-size: 12px;
+  }
+  .chat-content-area .sidebar-left .sidebar .sidebar-content .chat-menu .list-group-user li {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-radius: 0;
+  }
+  .chat-content-area .sidebar-left .sidebar .sidebar-content .chat-menu .list-group-user li img {
+    margin-bottom: 10px;
+  }
+  .chat-content-area .sidebar-left .sidebar .sidebar-content .chat-menu .list-group-user li .d-flex {
+    display: block !important;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-header .header-left h6 {
+    font-size: 12px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-header .header-left span {
+    font-size: 10px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-header .header-right ul li {
+    margin-left: 1px;
+    width: 19px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-footer form .send-btn {
+    padding: 0 12px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-footer form .send-btn span {
+    display: none;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-footer form {
+    padding-right: 50px;
+  }
+}
+/* Min width 576px to Max width 767px */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .single-features {
+    padding: 25px;
+  }
+  .single-website-performance {
+    padding: 25px;
+  }
+  .card-box-style {
+    padding: 25px;
+  }
+  .single-up-and-down {
+    padding: 15px;
+  }
+  .single-up-and-down .total h4 {
+    font-size: 18px;
+  }
+  .device-content.card-box-style {
+    padding-bottom: 5px;
+  }
+  .traffic-content.card-box-style {
+    padding-bottom: 5px;
+  }
+  .traffic-content .single-traffic .title {
+    font-size: 12px;
+  }
+  .works-stats-content .col-sm-4 {
+    flex: 0 0 auto;
+    width: 33.33%;
+  }
+  .single-group .group-img li {
+    margin-right: -30px;
+  }
+  /* Upcoming */
+  .upcoming-interview-content .interviews-wrap {
+    text-align: center;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview {
+    padding: 15px;
+    flex: 0 0 auto;
+    width: 47%;
+    display: inline-block !important;
+    margin: 0 5px;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-actions .favorite {
+    display: block;
+  }
+  .device-content .col-md-4 {
+    flex: 0 0 auto;
+    width: 33.33%;
+  }
+  .single-up-and-down {
+    margin-bottom: 0;
+  }
+}
+/* Min width 375px to Max width 767px */
+@media only screen and (min-width: 375px) and (max-width: 575px) {
+  .total-hiring-sources-content .col-sm-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  /* Page Title */
+  .page-title-area .col-sm-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .page-title-area .page-title-list {
+    text-align: right;
+  }
+  .page-title-area .page-title h3 {
+    margin-bottom: 0;
+  }
+}
+/* Min width 458px to Max width 576px */
+@media only screen and (min-width: 458px) and (max-width: 576px) {
+  /* Website Performance */
+  .single-website-performance .website-chart {
+    max-width: 100%;
+  }
+  /* Overview */
+  .overview-content {
+    display: flex !important;
+  }
+}
+/* Min width 768px to Max width 991px */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* main Title */
+  .main-title {
+    margin-bottom: 30px;
+  }
+  /* main Content */
+  .main-content-wrap {
+    padding-top: 127px;
+  }
+  .main-content-wrap.style-two {
+    padding-left: 0 !important;
+    overflow: hidden;
+  }
+  /* Traffic Content */
+  .traffic-content .traffic-chart {
+    margin-bottom: 30px;
+  }
+  /* Device Content */
+  .device-content .device-chart {
+    margin-bottom: 30px;
+  }
+  /* Performance Content */
+  .single-website-performance {
+    display: block !important;
+  }
+  .single-website-performance .website-chart {
+    max-width: 100%;
+    margin-top: 10px;
+  }
+  /* Features Content */
+  .single-features {
+    padding: 20px;
+  }
+  /* HR Management */
+  /* Welcome Back */
+  .welcome-back-content {
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+  }
+  .welcome-back-content .welcome-img {
+    right: 50px;
+    bottom: 0;
+    max-width: 134px;
+  }
+  .welcome-back-content h2 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+  /* Works Stats Back */
+  .works-stats-content .works-chart {
+    margin-bottom: 30px;
+  }
+  /* Total Back */
+  .single-total {
+    padding: 15px;
+  }
+  .single-total h2 {
+    font-size: 20px;
+  }
+  /* Media Files Style */
+  .media-files-content {
+    overflow: auto;
+  }
+  .media-files-content table tbody tr td {
+    white-space: nowrap;
+    padding: 15px !important;
+  }
+  /* Group Style */
+  .card-box-style.rounded {
+    padding: 20px;
+  }
+  .single-group {
+    padding: 15px;
+  }
+  .single-group .group-img li {
+    margin-right: -25px;
+  }
+  /* Tutor LMS Style */
+  /* Performers Style */
+  .top-performers-content ul {
+    margin-bottom: 30px;
+  }
+  .top-performers-content p {
+    margin-bottom: 30px;
+  }
+  /* Upcoming Style */
+  .upcoming-interview-content .interviews-wrap {
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+  }
+  /* Chat Style */
+  .chat-content-area .sidebar-left {
+    float: unset;
+  }
+  .chat-content-area .sidebar-left .sidebar {
+    width: auto;
+    padding: 20px;
+  }
+  .chat-content-area .sidebar-left .top-chat-menu li a {
+    font-size: 14px !important;
+  }
+  .chat-content-area .content-right {
+    width: unset;
+    float: unset;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-header .header-left h6 {
+    font-size: 14px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-container .chat-content .chat .chat-body .chat-message p {
+    font-size: 13px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-container .chat-content .chat.chat-left .chat-body .chat-message p {
+    font-size: 13px;
+  }
+  /* My Devices Style */
+  .my-devices-area .sidebar-left {
+    float: unset;
+  }
+  .my-devices-area .sidebar-left .sidebar {
+    width: 100%;
+    padding: 20px;
+  }
+  .my-devices-area .sidebar-left .sidebar .drive-list-wrap li a {
+    font-size: 14px;
+  }
+  .my-devices-area .content-right {
+    width: unset;
+  }
+  .my-devices-area .content-right .my-file-area {
+    padding: 20px;
+    padding-bottom: 0;
+  }
+  .my-devices-area .content-right .my-file-area .form-file-upload {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .my-devices-area .content-right .my-file-area .single-folde {
+    padding: 20px;
+  }
+  /* Contact Area Style */
+  .contact-info-wrap {
+    padding: 20px;
+    margin-bottom: 30px;
+  }
+  .contact-form {
+    padding: 20px;
+  }
+  .contact-form .form-group {
+    margin-bottom: 20px;
+  }
+  /* Email Area Style */
+  .email-content-area .sidebar-left {
+    float: unset;
+  }
+  .email-content-area .sidebar-left .sidebar .sidebar-content {
+    width: auto;
+  }
+  .email-content-area .content-right {
+    float: unset;
+    width: unset;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header {
+    display: block !important;
+    padding: 20px 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header .header-right li .form-select {
+    width: 100%;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item {
+    padding: 16.1px 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail .from {
+    width: auto;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail .msg {
+    margin-left: 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail div {
+    padding-left: 0;
+  }
+  .email-content-area .content-right .form-control {
+    width: 100% !important;
+    margin-bottom: 20px;
+  }
+  /* Account Area Style */
+  .account-area {
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .account-content {
+    padding: 30px;
+  }
+  /* Profile */
+  .profile-info {
+    display: block !important;
+    text-align: center;
+  }
+  .profile-info img {
+    margin-bottom: 10px;
+  }
+  .profile-info .ms-4 {
+    margin-left: 0 !important;
+  }
+  .profile-info .follow-email {
+    margin-bottom: 20px;
+  }
+  .edit-massage {
+    text-align: center !important;
+  }
+  .edit-massage .btn.btn-primary {
+    margin-right: 0;
+  }
+  .profile-details .profile-menu {
+    margin-bottom: 20px;
+  }
+  .profile-details {
+    padding: 30px;
+  }
+  /* BOx Icon Style */
+  .icon-box {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  /* Remix Icon Style */
+  .icon-used-example {
+    display: none;
+  }
+  .remixicon-area .icon-list .icon-type-item .icon-items .icon-item-group[data-v-3fe659be] {
+    width: 50%;
+  }
+  /* Avatar Style */
+  .avatar-list {
+    display: flex !important;
+  }
+  .avatar-list img {
+    max-width: 100% !important;
+  }
+  /* Contact List Style */
+  .contact-list-area .table-responsive {
+    overflow: auto;
+  }
+  .contact-list-area .table-responsive table tbody tr td {
+    white-space: nowrap;
+    padding: 15px !important;
+  }
+  .contact-list-area .table-responsive table tbody tr td .form-check img {
+    width: 30px;
+  }
+  .contact-list-area .table tbody tr td ul li {
+    width: 20px;
+  }
+  .btn {
+    padding: 8px 20px;
+  }
+  /* About Style */
+  .about-content h2 {
+    font-size: 20px;
+  }
+  /* Accordion Style */
+  .accordion-item .accordion-body {
+    padding: 20px 0;
+  }
+  .tabs-wrap .nav-tabs .nav-link {
+    margin: 0 5px;
+  }
+  .tabs-wrap .nav-tabs .nav-link.active::before {
+    display: none;
+  }
+  /* Pricing Style */
+  .single-pricing h1 {
+    font-size: 35px;
+  }
+  .single-pricing ul {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Blog Style */
+  .single-blog {
+    padding: 20px;
+  }
+  .single-blog .blog-content h3 {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  /* Blog Details Style */
+  .blog-details-content h2 {
+    font-size: 20px;
+  }
+  .blog-details-content .tags li {
+    margin-bottom: 10px;
+  }
+  .blog-details-content .tags li:last-child {
+    margin-bottom: 0;
+  }
+  .blog-details-content .tags li a {
+    padding: 5px;
+  }
+  .blog-details-content blockquote {
+    padding: 20px;
+    padding-left: 20px;
+  }
+  .blog-details-content blockquote p {
+    font-size: 15px;
+  }
+  .blog-details-content .social-link li {
+    margin-right: 5px;
+  }
+  .blog-details-content h3 {
+    font-size: 16px;
+  }
+  .blog-details-content .post-author {
+    display: block !important;
+  }
+  .blog-details-content .comments ul li.reply {
+    margin-left: 0;
+  }
+  /* Timeline Style */
+  .timeline .timeline-wrap::before {
+    left: 50px;
+    height: 80%;
+    top: 50px;
+  }
+  .timeline .timeline-wrap .timeline-item {
+    flex-flow: column wrap;
+    height: 250px;
+  }
+  .timeline .timeline-wrap .timeline-item:nth-child(even) {
+    flex-direction: column;
+  }
+  .timeline .timeline-wrap .timeline-item:nth-child(even) > .time:last-child {
+    text-align: start;
+  }
+  .timeline .timeline-wrap .timeline-item:nth-child(odd) h3::before {
+    content: "";
+    position: absolute;
+    left: -20px;
+    border: 10px solid rgba(0, 0, 0, 0);
+    border-right-color: black;
+  }
+  .timeline .timeline-wrap .timeline-item:nth-child(odd) h3::after {
+    border: none;
+  }
+  .timeline .timeline-wrap .timeline-item .icon {
+    order: 1;
+    flex: 1 1 100%;
+    padding-top: 50px;
+    width: 100px;
+  }
+  .timeline .timeline-wrap .timeline-item .time {
+    order: 2;
+    flex: 1 1 50px;
+    width: calc(100% - 100px);
+  }
+  .timeline .timeline-wrap .timeline-item .text {
+    order: 3;
+    flex: 1 1 calc(100% - 50px);
+    width: calc(100% - 100px);
+  }
+  /* availability */
+  .single-employees-availability {
+    padding: 20px;
+    display: block !important;
+    margin-bottom: 0;
+  }
+  .single-employees-availability .employees-chart {
+    margin-top: 10px;
+  }
+  /* Upcoming */
+  .upcoming-interview-content .interviews-wrap {
+    text-align: center;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview {
+    padding: 15px;
+    flex: 0 0 auto;
+    width: 47%;
+    display: inline-block !important;
+    margin: 0 5px;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview .call-btn {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .chat-content-area .sidebar-left .sidebar .top-chat-menu li {
+    width: 31.33%;
+    flex: 0 0 auto;
+  }
+  .chat-content-area .sidebar-left .sidebar .top-chat-menu li a {
+    font-weight: 500;
+    padding: 5px;
+    font-size: 12px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-header .header-left h6 {
+    font-size: 12px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-header .header-left span {
+    font-size: 10px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-list-header .header-right ul li {
+    margin-left: 1px;
+    width: 19px;
+  }
+  .welcome-back-content {
+    margin-top: 0;
+  }
+}
+/* Min width 992px to Max width 1199px */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /* Main Title Style */
+  .main-title {
+    margin-bottom: 30px;
+  }
+  /* Main Content Style */
+  .main-content-wrap {
+    padding-top: 127px;
+    padding-left: 0;
+    overflow: hidden;
+  }
+  .main-content-wrap.style-two {
+    padding-left: 0;
+    overflow: hidden;
+  }
+  /* Features Style */
+  .single-features {
+    padding: 14px;
+  }
+  /* Audience Style */
+  .single-audience {
+    display: block !important;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 24px;
+  }
+  .single-audience .icon {
+    margin: auto;
+    margin-top: 10px;
+  }
+  /* Card Box Style */
+  .card-box-style {
+    padding: 20px;
+  }
+  /* Website Style */
+  .single-website-performance {
+    padding: 20px;
+  }
+  .device-content .main-title {
+    margin-bottom: 0;
+  }
+  .device-content.website {
+    padding-bottom: 5px;
+  }
+  .device-content.website .main-title {
+    margin-bottom: 20px;
+  }
+  .device-content .device-chart {
+    margin-bottom: 0;
+  }
+  /* HR Management Style */
+  /* Welcome Back Style */
+  .welcome-back-content {
+    background-size: cover;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 50px;
+  }
+  .welcome-back-content .welcome-img {
+    bottom: 0;
+    right: 0;
+  }
+  /* Media Files Style */
+  .media-files-content {
+    overflow: auto;
+  }
+  .media-files-content table tbody tr td {
+    white-space: nowrap;
+    padding: 15px !important;
+  }
+  /* Group Style */
+  .upcoming-group-lessons-content .main-title.border-style .view-btn {
+    width: 80px;
+    text-align: center;
+  }
+  .single-group {
+    padding: 15px;
+  }
+  .single-group h3 {
+    font-size: 14px;
+  }
+  .single-group .group-img li {
+    margin-right: -25px;
+  }
+  .single-group .add-member-wrap li .add-member-btn {
+    width: 80px;
+    font-size: 9px;
+    text-align: center;
+  }
+  .card-box-style.rounded-30 {
+    padding: 20px;
+  }
+  /* Upcoming Style */
+  .upcoming-interview-content .interviews-wrap .single-interview {
+    padding: 15px;
+    display: block !important;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview .call-btn {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+  }
+  /* performance Date Style */
+  .performance-date-list::before {
+    height: 100%;
+    top: 0;
+  }
+  .chat-content-area .sidebar-left .sidebar {
+    width: 415px;
+  }
+  .chat-content-area .content-right {
+    width: calc(100% - 435px);
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-container .chat-content .chat.chat-left .chat-body .chat-message p {
+    font-size: 13px;
+  }
+  .chat-content-area .content-right .chat-list-wrapper .chat-list .chat-container .chat-content .chat .chat-body .chat-message p {
+    font-size: 13px;
+  }
+  /* My Devices Style */
+  .my-devices-area .sidebar-left .sidebar {
+    width: 280px;
+  }
+  .my-devices-area .content-right {
+    width: calc(100% - 300px);
+  }
+  /* Contact Area Style */
+  .contact-info-wrap {
+    padding: 30px;
+  }
+  .contact-form {
+    padding: 30px;
+  }
+  .contact-form .form-group {
+    margin-bottom: 20px;
+  }
+  /* Email Area Style */
+  .email-content-area .sidebar-left .sidebar .sidebar-content {
+    width: 290px;
+  }
+  .email-content-area .content-right {
+    width: calc(100% - 300px);
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header .header-left {
+    margin-right: 20px;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header .header-left .form-control {
+    width: 100%;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item {
+    padding: 16.1px 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail .from {
+    width: auto;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail .msg {
+    margin-left: 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail div {
+    padding-left: 0;
+  }
+  /* Pricing Style */
+  .single-pricing {
+    padding: 15px;
+  }
+  .single-pricing h1 {
+    font-size: 35px;
+  }
+  .single-pricing ul {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .single-pricing-style-two {
+    padding: 20px;
+  }
+  .single-pricing-style-two h3 {
+    font-size: 15px;
+  }
+  .single-pricing-style-two h3::before {
+    left: -20px;
+  }
+  .single-pricing-style-three {
+    padding: 20px;
+  }
+  /* Performers Style */
+  .top-performers-content ul .single-performers {
+    margin-right: 15px;
+  }
+  /* Employees Style */
+  .employees-availability-content-wrap.availability {
+    padding-bottom: 0;
+  }
+  .employees-availability-content-wrap.availability .col-lg-12 {
+    flex: 0 0 auto;
+    max-width: 50%;
+  }
+  .single-employees-availability {
+    padding: 20px;
+  }
+  .single-employees-availability .employees-chart {
+    max-width: 120px;
+  }
+  .welcome-back-content {
+    margin-top: 0;
+  }
+  .welcome-back-content .welcome-img {
+    max-width: 190px;
+  }
+}
+/* Min width 1200px to Max width 1320px */
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  /* Main Content Style */
+  .main-content-wrap {
+    overflow: hidden;
+  }
+  .main-content-wrap.style-two {
+    padding-left: 255px;
+  }
+  /* Features Style */
+  .single-features {
+    padding: 20px;
+  }
+  /* Audience Style */
+  .single-audience {
+    padding: 10px;
+    display: block !important;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 5px;
+  }
+  .single-audience .icon {
+    margin: auto;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 8px;
+  }
+  .single-audience .audience-content h5 {
+    font-size: 12px;
+  }
+  .single-audience .audience-content h4 {
+    font-size: 15px;
+  }
+  /* HR Management Style */
+  /* Welcome Back Style */
+  .welcome-back-content {
+    background-size: cover;
+    border-radius: 20px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    padding: 50px;
+  }
+  .welcome-back-content .welcome-img {
+    bottom: 0;
+    right: 18px;
+    max-width: 185px;
+  }
+  /* Media Files Style */
+  .media-files-content {
+    overflow: auto;
+  }
+  .media-files-content table tbody tr td {
+    white-space: nowrap;
+    padding: 15px !important;
+  }
+  /* Group Style */
+  .single-group {
+    padding: 15px;
+  }
+  .single-group h3 {
+    font-size: 14px;
+  }
+  .single-group .group-img li {
+    margin-right: -29px;
+  }
+  .single-group .add-member-wrap li .add-member-btn {
+    width: 80px;
+    font-size: 9px;
+    text-align: center;
+  }
+  /* Upcoming Style */
+  .upcoming-interview-content .interviews-wrap .single-interview {
+    padding: 15px;
+    display: block !important;
+    text-align: center;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview .call-btn {
+    display: block;
+    margin-top: 10px;
+  }
+  /* Performers Style */
+  .top-performers-content ul .single-performers {
+    margin-right: 10px;
+    margin-bottom: 0;
+  }
+  .top-performers-content ul .single-performers:last-child {
+    margin-bottom: 0;
+  }
+  .upcoming-interview-content .interviews-wrap {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  /* Card Box Style */
+  .card-box-style.rounded-30 {
+    padding: 20px;
+  }
+  /* performance Date Style */
+  .performance-date-list::before {
+    height: 100%;
+    top: 0;
+  }
+  /* Email Area Style */
+  .email-content-area .sidebar-left .sidebar .sidebar-content {
+    width: 290px;
+  }
+  .email-content-area .content-right {
+    width: calc(100% - 300px);
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header .header-left {
+    margin-right: 20px;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header .header-left .form-control {
+    width: 100%;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item {
+    padding: 16.1px 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail .from {
+    width: auto;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail .msg {
+    margin-left: 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail div {
+    padding-left: 0;
+  }
+  /* Main Content Style */
+  .main-content-wrap {
+    overflow: hidden;
+  }
+  .main-content-wrap.style-two {
+    padding-left: 255px;
+  }
+  /* Traffic Style */
+  .traffic-content .main-title {
+    margin-bottom: 30px;
+  }
+  .traffic-content .traffic-chart {
+    margin-bottom: 26px;
+  }
+  /* Total Visits Style */
+  .total-visits-content {
+    overflow: hidden;
+  }
+  /* Upcoming Style */
+  .upcoming-group-lessons-content {
+    overflow: hidden;
+  }
+  .upcoming-group-lessons-content .main-title.border-style .view-btn {
+    width: 90px;
+    text-align: center;
+  }
+  /* Hiring Style */
+  .single-hiring .title {
+    font-size: 11px;
+  }
+  /* Progress Style */
+  .student-progress-area .total-student-wrap .col-lg-12 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .single-audience {
+    margin-bottom: 24px;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview {
+    text-align: left;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview .call-btn {
+    text-align: center;
+  }
+}
+/* Min width 1320px to Max width 1550px */
+@media only screen and (min-width: 1320px) and (max-width: 1550px) {
+  /* HR Management Style */
+  /* Welcome Back Style */
+  .welcome-back-content {
+    background-size: cover;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 50px;
+  }
+  .welcome-back-content .welcome-img {
+    bottom: 0;
+    right: 0;
+  }
+  /* Media Files Style */
+  .media-files-content {
+    overflow: auto;
+  }
+  .media-files-content table tbody tr td {
+    white-space: nowrap;
+    padding: 15px !important;
+  }
+  /* Group Style */
+  .single-group {
+    padding: 15px;
+  }
+  .single-group .group-img li {
+    margin-right: -35px;
+  }
+  /* Upcoming Style */
+  .upcoming-interview-content .interviews-wrap .single-interview {
+    padding: 15px;
+    display: block !important;
+    text-align: center;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview .call-btn {
+    display: block;
+    margin-top: 10px;
+  }
+  .top-performers-content ul .single-performers {
+    margin-right: 15px;
+  }
+  /* Email Area Style */
+  .email-content-area .sidebar-left .sidebar .sidebar-content {
+    width: 290px;
+  }
+  .email-content-area .content-right {
+    width: calc(100% - 300px);
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header .header-left {
+    margin-right: 20px;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .email-list-header .header-left .form-control {
+    width: 100%;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item {
+    padding: 16.1px 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail .msg {
+    margin-left: 0;
+  }
+  .email-content-area .content-right .email-list-wrapper .email-list .list-wrapper .email-list-item .email-list-detail div {
+    padding-left: 0;
+  }
+  /* Account Style */
+  .account-area {
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview {
+    text-align: left;
+  }
+  .upcoming-interview-content .interviews-wrap .single-interview .call-btn {
+    text-align: center;
+  }
+}
+/* Min width 1400px to Max width 1700px */
+@media only screen and (min-width: 1400px) and (max-width: 1700px) {
+  .single-audience {
+    padding: 15px 10px;
+  }
+  .single-audience .icon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 8px;
+  }
+  .single-audience .audience-content h5 {
+    font-size: 12px;
+  }
+  .single-audience .audience-content h4 {
+    font-size: 15px;
+  }
+  .traffic-content .main-title {
+    margin-bottom: 0;
+  }
+  .traffic-content .traffic-chart {
+    margin-bottom: 0;
+  }
+  .traffic-content .col-xxl-3 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .device-website-area .col-xxl-7 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .device-website-area .col-xxl-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .works-stats-content .works-chart {
+    margin-bottom: 15px;
+  }
+  .activity-wrap .single-activity {
+    margin-top: 15px;
+  }
+  .employees-chart-area .col-xxl-6 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .total-hiring-sources-wrap .col-xxl-8 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .total-hiring-sources-wrap .col-xxl-4 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .works-stats-content .col-lg-4:nth-child(2) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .single-works .title {
+    font-size: 9px;
+  }
+  .single-works h4 {
+    font-size: 9px;
+  }
+  .single-group h3 {
+    font-size: 14px;
+  }
+  .single-group .group-img li {
+    margin-right: -25px;
+  }
+  .single-group .add-member-wrap li .add-member-btn {
+    width: 80px;
+    font-size: 9px;
+    text-align: center;
+  }
+  .student-list-wrap {
+    height: 340px;
+    overflow: auto;
+  }
+  .header-area.header-style-two {
+    background-color: transparent;
+  }
+}
+/* Min width 1119px*/
+@media only screen and (max-width: 1199px) {
+  /* Main Content Wrapper Menu */
+  .main-content-wrap {
+    padding-left: 0;
+  }
+}/*# sourceMappingURL=responsive.css.map */

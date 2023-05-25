@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="cloud-add" transform="translate(-300 -252)">
+    <g id="cloud-add-2" data-name="cloud-add" transform="translate(300 252)">
+      <g id="Group" transform="translate(2.537 3.088)">
+        <path id="Vector" d="M4.387,0c-5.85.413-5.85,8.925,0,9.338h2.4" transform="translate(0 10.812)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M.613,10.812C-3.4-.35,13.525-4.813,15.463,6.912c5.412.688,7.6,7.9,3.5,11.488a6.669,6.669,0,0,1-4.55,1.75H14.3" transform="translate(3.837 0)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <path id="Vector-3" data-name="Vector" d="M12.5,6.25a5.893,5.893,0,0,1-.575,2.575,5.138,5.138,0,0,1-.337.638,6.208,6.208,0,0,1-10.675,0,5.138,5.138,0,0,1-.337-.638A5.893,5.893,0,0,1,0,6.25a6.25,6.25,0,0,1,12.5,0Z" transform="translate(8.75 14.412)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,1.225,1.237,2.463,3.9,0" transform="translate(13.05 19.437)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H30V30H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
