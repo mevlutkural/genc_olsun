@@ -7,27 +7,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Link Of CSS -->
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/animate.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/remixicon.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/boxicons.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/iconsax.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/metismenu.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/simplebar.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/calendar.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/sweetalert2.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/jbox.all.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/editor.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/fontawesome.min.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/loaders.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/header.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/sidebar-menu.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/footer.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/style.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/dark-mode.css">
-    <link rel="stylesheet" href="{{ asset('assets') }}/css/responsive.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/animate.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/remixicon.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/boxicons.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/iconsax.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/metismenu.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/simplebar.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/calendar.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/sweetalert2.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/jbox.all.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/editor.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/fontawesome.min.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/loaders.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/header.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/sidebar-menu.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/footer.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/style.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/dark-mode.css">
+    <link rel="stylesheet" href="{{ asset('dashboard_template/assets') }}/css/responsive.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.css" />
 
     <!-- Favicon -->
@@ -112,7 +112,7 @@
 
             const formData = new FormData(this);
 
-            axios.post('/panel/login', formData).then((res) => {
+            axios.post('/login', formData).then((res) => {
 
                 if (res.data == 'success') {
                     location.href = "{{ route('dashboard') }}";
@@ -122,7 +122,7 @@
 
                 toastr.error('Hata', 'Girdiğiniz bilgileri kontrol ediniz.');
 
-            })
+            });
 
         });
     </script>

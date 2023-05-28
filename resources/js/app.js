@@ -1,8 +1,7 @@
-import "./bootstrap";
+//import "./bootstrap";
 import Swal from "sweetalert2";
 import axios from "axios";
-import jQuery from "jquery";
-window.$ = jQuery;
+window.axios = axios;
 import deleteItem from "./utils/DeleteItem";
 window.deleteItem = deleteItem;
 window.Swal = Swal;

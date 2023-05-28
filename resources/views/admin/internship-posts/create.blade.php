@@ -8,13 +8,13 @@
                     <div>
                         <ul class="nav">
                             <li class="nav-item">
-                                <a href="{{ route('users.index') }}" class="text-dark fs-4">Staj İlanı Oluştur</a>
+                                <a href="{{ route('internship-posts.index') }}" class="text-dark fs-4">Staj İlanıları</a>
                             </li>
                             <li class="nav-item ms-1">
                                 <span class="fs-4">{{ '>' }}</span>
                             </li>
                             <li class="nav-item ms-1 text-primary">
-                                <span class="fs-4"> Kullanıcı Ekle</span>
+                                <span class="fs-4">Staj İlanı Oluştur</span>
                             </li>
                         </ul>
                     </div>

@@ -15,33 +15,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!--  Favicon -->
-    <link rel="shortcut icon" type="image/png"
-        href="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/images/logos/favicon.png" />
     <!-- Owl Carousel  -->
-    <link rel="stylesheet"
-        href="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/libs/owl.carousel/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
 
     <!-- Core Css -->
-    <link id="themeColors" rel="stylesheet"
-        href="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/css/style.min.css" />
+    <link id="themeColors" rel="stylesheet" href="{{ asset('assets/css/style.min.css') }}" />
 
+    <link rel="stylesheet" href="{{ asset('assets/css/all.min.css') }}" />
+    <link href="{{ asset('assets/css/vanilla-dataTables.min.css') }}" rel="stylesheet" type="text/css">
+    <script src="{{ asset('assets/js/vanilla-dataTables.min.js') }}" type="text/javascript"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
-    <link href="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.css" rel="stylesheet"
-        type="text/css">
-    <script src="https://unpkg.com/vanilla-datatables@latest/dist/vanilla-dataTables.min.js" type="text/javascript">
-    </script>
+    <link rel="stylesheet" href="{{ asset('assets/css/custom.css') }}">
 </head>
 
 <body>
     <!-- Preloader -->
     <div class="preloader">
-        <img src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/images/logos/favicon.png"
-            alt="loader" class="lds-ripple img-fluid" />
-    </div>
-    <!-- Preloader -->
-    <div class="preloader">
-        <img src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/images/logos/favicon.png"
-            alt="loader" class="lds-ripple img-fluid" />
+        <img src="{{ asset('assets/images/logo.png') }}" alt="loader" class="lds-ripple img-fluid"
+            style="min-width:150px;" />
     </div>
     <!--  Body Wrapper -->
     <div class="page-wrapper" id="main-wrapper" data-theme="blue_theme" data-layout="vertical" data-sidebartype="full"
@@ -595,30 +586,19 @@
     </div>
     <!--  Customizer -->
     <!--  Import Js Files -->
-    <script
-        src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/libs/jquery/dist/jquery.min.js">
-    </script>
-    <script
-        src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/libs/simplebar/dist/simplebar.min.js">
-    </script>
-    <script
-        src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/libs/bootstrap/dist/js/bootstrap.bundle.min.js">
-    </script>
+    <script src="{{ asset('assets/js/jquery.min.js') }}"></script>
+    <script src="{{ asset('assets/js/simplebar.min.js') }}"></script>
+    <script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
     <!--  core files -->
-    <script src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/js/app.min.js"></script>
-    <script src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/js/app.init.js"></script>
-    <script src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/js/app-style-switcher.js">
-    </script>
-    <script src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/js/sidebarmenu.js"></script>
-    <script src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/js/custom.js"></script>
+    <script src="{{ asset('assets/js/app.min.js') }}"></script>
+    <script src="{{ asset('assets/js/app.init.js') }}"></script>
+    <script src="{{ asset('assets/js/app-style-switcher.js') }}"></script>
+    <script src="{{ asset('assets/js/sidebarmenu.js') }}"></script>
+    <script src="{{ asset('assets/js/custom.js') }}"></script>
     <!--  current page js files -->
-    <script
-        src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/libs/owl.carousel/dist/owl.carousel.min.js">
-    </script>
-    <script
-        src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/libs/apexcharts/dist/apexcharts.min.js">
-    </script>
-    <script src="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/package/dist/js/dashboard.js"></script>
+    <script src="{{ asset('assets/js/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('assets/js/apexcharts.min.js') }}"></script>
+    <script src="{{ asset('assets/js/dashboard.js') }}"></script>
     @vite('resources/js/app.js')
     @stack('scripts')
 </body>

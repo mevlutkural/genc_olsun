@@ -24,7 +24,16 @@
                  <!-- Dashboard -->
                  <!-- =================== -->
                  <li class="sidebar-item">
-                     <a class="sidebar-link{{ request()->is(['panel/users', 'panel/users/create']) ? ' active' : '' }}"
+                     <a class="sidebar-link{{ request()->is('/') ? ' active' : '' }}" href="{{ route('dashboard') }}"
+                         aria-expanded="false">
+                         <span>
+                             <i class="fa-solid fa-house"></i>
+                         </span>
+                         <span class="hide-menu">Panel</span>
+                     </a>
+                 </li>
+                 <li class="sidebar-item">
+                     <a class="sidebar-link{{ request()->is(['users', 'users/create']) ? ' active' : '' }}"
                          href="{{ route('users.index') }}" aria-expanded="false">
                          <span>
                              <i class="fa-solid fa-user"></i>
@@ -33,12 +42,66 @@
                      </a>
                  </li>
                  <li class="sidebar-item">
-                     <a class="sidebar-link{{ request()->is(['panel/internship-posts', 'panel/internship-posts/create']) ? ' active' : '' }}"
+                     <a class="sidebar-link{{ request()->is(['internship-posts', 'internship-posts/create']) ? ' active' : '' }}"
                          href="{{ route('internship-posts.index') }}" aria-expanded="false">
                          <span>
                              <i class="fa-solid fa-signs-post"></i>
                          </span>
                          <span class="hide-menu">Staj İlanları</span>
+                     </a>
+                 </li>
+                 <li class="sidebar-item">
+                     <a class="sidebar-link{{ request()->is(['scholarship-posts', 'scholarship-posts/create']) ? ' active' : '' }}"
+                         href="{{ route('scholarship-posts.index') }}" aria-expanded="false">
+                         <span>
+                             <i class="fa-solid fa-award"></i>
+                         </span>
+                         <span class="hide-menu">Burs İlanları</span>
+                     </a>
+                 </li>
+                 <li class="sidebar-item">
+                     <a class="sidebar-link{{ request()->is(['job-posts', 'job-posts/create']) ? ' active' : '' }}"
+                         href="{{ route('job-posts.index') }}" aria-expanded="false">
+                         <span>
+                             <i class="fa-solid fa-user-tie"></i>
+                         </span>
+                         <span class="hide-menu">İş İlanları</span>
+                     </a>
+                 </li>
+                 <li class="sidebar-item">
+                     <a class="sidebar-link{{ request()->is(['talent-programs', 'talent-programs/create']) ? ' active' : '' }}"
+                         href="{{ route('talent-programs.index') }}" aria-expanded="false">
+                         <span>
+                             <i class="fa-solid fa-star"></i>
+                         </span>
+                         <span class="hide-menu">Yetenek Programları</span>
+                     </a>
+                 </li>
+                 <li class="sidebar-item">
+                     <a class="sidebar-link{{ request()->is(['activities-posts', 'activities-posts/create']) ? ' active' : '' }}"
+                         href="{{ route('activities-posts.index') }}" aria-expanded="false">
+                         <span>
+                             <i class="fa-solid fa-chart-line"></i>
+                         </span>
+                         <span class="hide-menu">Etkinlikler</span>
+                     </a>
+                 </li>
+                 <li class="sidebar-item">
+                     <a class="sidebar-link{{ request()->is(['young-university', 'young-university/create']) ? ' active' : '' }}"
+                         href="{{ route('young-university.index') }}" aria-expanded="false">
+                         <span>
+                             <i class="fa-solid fa-graduation-cap"></i>
+                         </span>
+                         <span class="hide-menu">Genç Üniversiteliler</span>
+                     </a>
+                 </li>
+                 <li class="sidebar-item">
+                     <a class="sidebar-link{{ request()->is(['student-clubs', 'student-clubs/create']) ? ' active' : '' }}"
+                         href="{{ route('student-clubs.index') }}" aria-expanded="false">
+                         <span>
+                             <i class="fa-solid fa-school"></i>
+                         </span>
+                         <span class="hide-menu">Öğrenci Kulüpleri</span>
                      </a>
                  </li>
                  {{--  <li class="sidebar-item">
