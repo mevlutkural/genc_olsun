@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="card-body">
-                <form id="internshipPostForm" action="{{ route('scholarship-posts.store') }}" method="POST"
+                <form id="internshipPostForm" action="{{ route('student-clubs.store') }}" method="POST"
                     enctype="multipart/form-data">
                     @csrf
                     <div class="row">
@@ -56,6 +56,11 @@
                             <label for="instagram">İnstagram</label>
                             <input id="instagram" type="text" name="instagram" class="form-control"
                                 value="{{ old('instagram') }}">
+                        </div>
+                        <div class="col-sm-12 mb-3">
+                            <label for="discord">Discord</label>
+                            <input id="discord" type="text" name="discord" class="form-control"
+                                value="{{ old('discord') }}">
                         </div>
                         <div class="col-sm-12 mb-3">
                             <label for="linkedin">Linkedin</label>

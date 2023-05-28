@@ -19,3 +19,9 @@ use Illuminate\Support\Facades\Route;
 }); */
 
 Route::get('/internship-posts', [ApiController::class, 'getInternshipPosts']);
+Route::get('/scholarship-posts', [ApiController::class, 'getScholarshipPosts']);
+Route::get('/job-posts', [ApiController::class, 'getJobPosts']);
+Route::get('/talent-programs', [ApiController::class, 'getTalentPrograms']);
+Route::get('/activities-posts', [ApiController::class, 'getActivitiesPosts']);
+Route::get('/young-university', [ApiController::class, 'getYoungUniversity']);
+Route::get('/student-clubs', [ApiController::class, 'getStudentClubs']);

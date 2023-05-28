@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="card-body">
-                <form id="internshipPostForm" action="{{ route('scholarship-posts.store') }}" method="POST"
+                <form id="internshipPostForm" action="{{ route('job-posts.store') }}" method="POST"
                     enctype="multipart/form-data">
                     @csrf
                     <div class="row">

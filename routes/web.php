@@ -35,7 +35,9 @@ Route::post('/reset-password', [AuthController::class, 'resetPassword'])->name('
 
 Route::domain('panel.gencolsun.test')->middleware('auth:web')->group(function () {
 
-    Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
+    Route::get('/', function(){
+        return redirect('/users');
+    })->name('dashboard');
 
     Route::resource('/users', UserController::class);
     Route::get('/users/{user}/change-password', [UserController::class, 'passwordForm'])->name('users.change-password');

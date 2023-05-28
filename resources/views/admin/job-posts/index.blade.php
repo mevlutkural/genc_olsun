@@ -43,7 +43,7 @@
                                             <ul class="nav">
                                                 <li class="nav-item ms-2">
                                                     <button class="btn btn-danger"
-                                                        data-target="{{ route('internship-posts.destroy', $post->internship_post_id) }}"
+                                                        data-target="{{ route('job-posts.destroy', $post->job_post_id) }}"
                                                         class="list-delete-item" onclick="deleteItem(this)">
                                                         <i class="fa-solid fa-trash"></i>
                                                         <span class="ms-2">Sil</span>

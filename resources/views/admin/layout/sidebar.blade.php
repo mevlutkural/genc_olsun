@@ -24,15 +24,6 @@
                  <!-- Dashboard -->
                  <!-- =================== -->
                  <li class="sidebar-item">
-                     <a class="sidebar-link{{ request()->is('/') ? ' active' : '' }}" href="{{ route('dashboard') }}"
-                         aria-expanded="false">
-                         <span>
-                             <i class="fa-solid fa-house"></i>
-                         </span>
-                         <span class="hide-menu">Panel</span>
-                     </a>
-                 </li>
-                 <li class="sidebar-item">
                      <a class="sidebar-link{{ request()->is(['users', 'users/create']) ? ' active' : '' }}"
                          href="{{ route('users.index') }}" aria-expanded="false">
                          <span>

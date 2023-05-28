@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id('student_club_id');
             $table->string('title');
             $table->longText('description');
-            $table->string('image_url');
+            $table->string('image_url')->default('');
             $table->string('facebook')->default('');
             $table->string('instagram')->default('');
             $table->string('discord')->default('');

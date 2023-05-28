@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Admin\ActivitesPostRequest;
 use App\Models\ActivitiesPost;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
 
 class ActivitiesPostController extends Controller
@@ -30,7 +31,7 @@ class ActivitiesPostController extends Controller
     /**
      * Store a newly created resource in storage.
      */
-    public function store(ActivitesPostRequest $req)
+    public function store(Request $req)
     {
         $activitiesPost = new ActivitiesPost();
         $activitiesPost->fill($this->prepare($req, $activitiesPost->getFillable()));

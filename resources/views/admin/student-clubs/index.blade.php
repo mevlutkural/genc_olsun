@@ -43,7 +43,7 @@
                                             <ul class="nav">
                                                 <li class="nav-item ms-2">
                                                     <button class="btn btn-danger"
-                                                        data-target="{{ route('internship-posts.destroy', $post->internship_post_id) }}"
+                                                        data-target="{{ route('student-clubs.destroy', $post->student_club_id) }}"
                                                         class="list-delete-item" onclick="deleteItem(this)">
                                                         <i class="fa-solid fa-trash"></i>
                                                         <span class="ms-2">Sil</span>
@@ -62,28 +62,28 @@
                                         <td>
                                             <ul>
                                                 @if ($post->facebook)
-                                                    {{ $post->facebook }}
+                                                    <li>facebook :{{ $post->facebook }}</li>
                                                 @endif
                                                 @if ($post->instagram)
-                                                    {{ $post->instagram }}
+                                                    <li>instagram :{{ $post->instagram }}</li>
                                                 @endif
                                                 @if ($post->discord)
-                                                    {{ $post->discord }}
+                                                    <li>discord :{{ $post->discord }}</li>
                                                 @endif
                                                 @if ($post->linkedin)
-                                                    {{ $post->linkedin }}
+                                                    <li>linkedin :{{ $post->linkedin }}</li>
                                                 @endif
                                                 @if ($post->youtube)
-                                                    {{ $post->youtube }}
+                                                    <li>youtube :{{ $post->youtube }}</li>
                                                 @endif
                                                 @if ($post->whatsapp)
-                                                    {{ $post->whatsapp }}
+                                                    <li>whatsapp :{{ $post->whatsapp }}</li>
                                                 @endif
                                                 @if ($post->telegram)
-                                                    {{ $post->telegram }}
+                                                    <li>telegram :{{ $post->telegram }}</li>
                                                 @endif
                                                 @if ($post->web_site)
-                                                    {{ $post->web_site }}
+                                                    <li>web_site :{{ $post->web_site }}</li>
                                                 @endif
                                             </ul>
                                         </td>
