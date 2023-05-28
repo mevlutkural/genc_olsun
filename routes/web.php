@@ -33,7 +33,7 @@ Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
 Route::get('/reset-password', [AuthController::class, 'resetPasswordForm'])->name('reset-password-form');
 Route::post('/reset-password', [AuthController::class, 'resetPassword'])->name('reset-password');
 
-Route::domain('panel.gencolsun.test')->middleware('auth:web')->group(function () {
+Route::domain('panel.gencolsun.net')->middleware('auth:web')->group(function () {
 
     Route::get('/', function(){
         return redirect('/users');
